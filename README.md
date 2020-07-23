@@ -1,2 +1,2 @@
-# compilers
-This is the compiler course offered by Stanford, here are the course resources and part of the answers. 
+# compiler
+This is the course resources of Compilers in Stanford, here are the instructions and experiment files
